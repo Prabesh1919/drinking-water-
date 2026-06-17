@@ -1,0 +1,6 @@
+{
+  "name": "Drinking Water Reminder",
+  "description": "A beautifully crafted offline-first hydration tracker with smart reminders, customizable goals, water logs, statistics, streak trends, and achievement badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
